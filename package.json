@@ -1,0 +1,22 @@
+{
+  "owner": "13054925558",
+  "prefix": "!",
+  "botName": "Raice",
+  "currency": "USD",
+  "cooldowns": {
+    "work": 20,
+    "crime": 45,
+    "slut": 60,
+    "beg": 30,
+    "daily": 86400,
+    "weekly": 604800,
+    "rob": 60,
+    "bankrob": 300,
+    "heist": 180,
+    "treasure": 90,
+    "search": 45,
+    "fish": 60
+  },
+  "users": {},
+  "groups": {}
+}
